@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 def majuscule(mot):
     # TODO completer la fonction ici
+    a=2
+    b=23
     return mot
 
 
