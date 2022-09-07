@@ -4,6 +4,7 @@ def majuscule(mot):
     # TODO completer la fonction ici
     a=2
     b=23
+    print("ouais le sang")
     return mot
 
 
