@@ -37,3 +37,4 @@ def majuscule(mot):
 [Tableau ASCII](http://www.asciitable.com/)
 
 Les fonctions [ord() et chr()](https://docs.python.org/3.4/library/functions.html?highlight=ord) permettent de convertir des données caractères.
+# Chapitre-3-test
