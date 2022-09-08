@@ -2,9 +2,8 @@
 # -*- coding: utf-8 -*-
 def majuscule(mot):
     # TODO completer la fonction ici
-    a=2
-    b=23
-    print("ouais le sang")
+    mot = mot.upper()
+
     return mot
 
 
@@ -20,5 +19,6 @@ if __name__ == '__main__':
     ]
     for i in range(len(mots)):
         mots[i] = majuscule(mots[i])
+       # print(i)
 
     print(mots)
